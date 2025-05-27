@@ -4,7 +4,7 @@ import java.util.Scanner;
  * @author Hacer Nur YAVAŞ - 27 Mayıs 2025
  * Bu proje sınıf geçme durumunu kontrol eder.
  */
-public class SınıfGecme {
+public class SinifGecme {
     public static void main(String[] args) {
 
         int mat, fizik, turkce, kimya, muzik, total = 0, sayac = 0;
