@@ -1,7 +1,7 @@
 import java.util.Scanner;
 /**
- * @author Hacer Nur YAVAŞ - 26 Mayıs 2025
- * Bu proje daire diliminin alanını hesaplar.
+ * @author Hacer Nur YAVAŞ - 27 Mayıs 2025
+ * Bu kullanıcı girişi yapar.
  */
 public class KullaniciGiris {
     public static void main(String[] args) {
