@@ -1,5 +1,8 @@
 import java.util.Scanner;
-
+/**
+ * @author Hacer Nur YAVAŞ - 27 Mayıs 2025
+ * Bu proje hesap makinesidir.
+ */
 public class HesapMakinesi {
     public static void main(String[] args) {
 
