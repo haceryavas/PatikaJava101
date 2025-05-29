@@ -22,5 +22,6 @@ public class ArtikYil {
             System.out.println(yil + " bir artik yıldır.");
         else
             System.out.println(yil + " bir artik yıl değildir.");
+
     }
 }
