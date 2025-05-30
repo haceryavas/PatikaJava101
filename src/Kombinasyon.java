@@ -25,6 +25,6 @@ public class Kombinasyon {
         for (int i = 1; i <= n - r; i++)
             nrFAc *= i;
 
-        System.out.println("C(" + n + "," + r + ") " + nFac / (rFac * nrFAc));
+        System.out.println("C(" + n + "," + r + ") = " + nFac / (rFac * nrFAc));
     }
 }
